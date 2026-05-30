@@ -1,0 +1,8 @@
+﻿node_modules
+.pio
+ml/model.joblib
+ml/modelregression.joblib
+ml/__pycache__
+ml/cd
+ml/curl
+cleanup-alerts.js
