@@ -19,5 +19,3 @@ Node.js · MQTT · Firebase · Python · Railway
 2. Create a `.env` file with: [variables, sans les valeurs]
 3. `node index.js`
 
-## Screenshots
-[capture du dashboard]
